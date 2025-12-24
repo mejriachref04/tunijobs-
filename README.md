@@ -17,7 +17,7 @@ A Flutter-based job marketplace app for Tunisia, connecting clients and freelanc
 - Image Picker for profile photos
 
 ## Setup Instructions
-1. Clone the repo: `git clone https://github.com/yourusername/tunijobs.git`
+1. Clone the repo: `git clone https://github.com/mejriachref04/tunijobs-.git`
 2. Install dependencies: `flutter pub get`
 3. Configure Firebase: Add your `google-services.json` (Android) and `GoogleService-Info.plist` (iOS) files.
 4. Run the app: `flutter run`
