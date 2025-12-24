@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "523553823091",
+    "project_id": "tunijobs-7823f",
+    "storage_bucket": "tunijobs-7823f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523553823091:android:4e18aeadf53e4130c9cd06",
+        "android_client_info": {
+          "package_name": "com.tunijobs.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrxv-s4NNe8vUNWxSUoqrFLP3XkYQVKgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523553823091:android:7c33fe815323642fc9cd06",
+        "android_client_info": {
+          "package_name": "com.tunijobs.tunijobs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrxv-s4NNe8vUNWxSUoqrFLP3XkYQVKgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
