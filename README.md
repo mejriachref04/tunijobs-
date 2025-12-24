@@ -1,29 +1,87 @@
-# TuniJobs
+TUNI JOBS – FREELANCE & SERVICES MARKETPLACE APP
+=================================================
 
-A Flutter-based job marketplace app for Tunisia, connecting clients and freelancers. Users can post jobs, apply for opportunities, manage profiles, and communicate via chat.
+TuniJobs is a modern mobile application designed to connect clients with freelancers and service providers in Tunisia.
+The app allows users to post services, search for talents, chat in real time, and manage orders — all in one secure platform.
 
-## Features
-- User authentication (email/password) with Firebase
-- Profile setup with skills, bio, and profile images
-- Job posting and application system
-- Client and freelancer dashboards
-- Real-time chat between users
-- Order completion tracking
+This project was developed as part of a Final Year Project (PFE) using Flutter and Firebase.
 
-## Tech Stack
+PROJECT GOALS
+-------------
+- Simplify access to freelance services in Tunisia
+- Create a local alternative to platforms like Fiverr
+- Provide a secure, fast, and user-friendly mobile experience
+- Apply modern technologies (Flutter, Firebase, AI concepts)
+
+FEATURES
+--------
+Authentication
+- User registration & login
+- Firebase Authentication
+- Secure session handling
+
+User Profiles
+- Personal profile creation
+- Skills & service management
+- Profile editing
+
+Services & Jobs
+- Post services (freelancers)
+- Browse available services
+- Category-based filtering
+- Search functionality
+
+Real-Time Chat
+- Client ↔ Freelancer messaging
+- Firebase real-time communication
+
+Orders System
+- Service request system
+- Order tracking
+- Status management
+
+Smart Matching (Concept)
+- AI-based skill matching
+- Better service recommendations
+
+TECHNOLOGIES USED
+-----------------
 - Flutter (Dart)
-- Firebase (Auth, Firestore, Storage)
-- Provider for state management
-- Image Picker for profile photos
+- Firebase (Authentication, Firestore, Storage)
+- Android Studio
+- Material UI
 
-## Setup Instructions
-1. Clone the repo: `git clone https://github.com/mejriachref04/tunijobs-.git`
-2. Install dependencies: `flutter pub get`
-3. Configure Firebase: Add your `google-services.json` (Android) and `GoogleService-Info.plist` (iOS) files.
-4. Run the app: `flutter run`
+INSTALLATION
+------------
+1. git clone https://github.com/mejriachref04/tunijobs-
+2. flutter pub get
+3. Configure Firebase
+4. flutter run
 
-## Note
-This is my first Flutter app, developed over 3 months. It's not fully polished and may have some bugs—feedback is welcome!
+PROJECT STRUCTURE
+-----------------
+lib/
+ - auth/
+ - screens/
+ - models/
+ - services/
+ - widgets/
+ - main.dart
 
-## Screenshots
-[Add screenshots here if you have them]
+FUTURE IMPROVEMENTS
+-------------------
+- Payment integration
+- Ratings & reviews
+- Admin dashboard
+- Push notifications
+- Advanced AI
+- Dark mode
+
+AUTHOR
+------
+Achref Mejri (Tefa)
+GitHub: https://github.com/mejriachref04
+
+LICENSE
+-------
+MIT License
